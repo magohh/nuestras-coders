@@ -1,0 +1,38 @@
+body{
+	margin:100px;
+}
+
+
+img{
+	width: 200px;
+	height: 200px;
+	margin:10px;
+	}
+
+h3{	
+	font-family: courier;
+	position:relative;
+	left:10px
+}
+
+hr{
+	width:50px;
+	height: 5px;
+	background-color:black;
+	position:relative;
+	left:10px;
+	margin:0;
+}
+
+p{
+	position: absolute;
+	z-index:1;
+	right:30px;
+	bottom:0px;
+	color:white;
+}
+
+span{
+	position:relative;
+	}
+
